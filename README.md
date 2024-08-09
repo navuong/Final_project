@@ -9,7 +9,7 @@ Data Collection:
 - Transcripts: Earning transcript from April 2019 to Feb 2023, filtered on 431 companies within S&P 500 Index.
 In total we have 3198 data points.
 Source: https://www.kaggle.com/datasets/tpotterer/motley-fool-scraped-earnings-call-transcripts
-Local file is named 'motley-fool-data.pkl'
+Download and save the file to the project directory, file name is 'motley-fool-data.pkl'
 - Stock Prices: Daily prices within the same period.
 Source: yahoo finance
 
